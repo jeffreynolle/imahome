@@ -1,6 +1,6 @@
 ---
 title: Title
-header: Sample Header
+header: Home
 image: 
 layout: default
 ---
