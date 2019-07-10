@@ -1,7 +1,7 @@
 ---
 title: Title
 header: Home
-image: 
+image: "/uploads/IMG_8298.JPG"
 layout: default
 ---
 
